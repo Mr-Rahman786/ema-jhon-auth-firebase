@@ -1,3 +1,17 @@
+.log-out{
+    margin-left: 30px;
+    border: none; padding: 10px 30px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.log-out:hover{
+    background-color: violet;
+}
+.email{
+    color: white;
+    
+}
 .header{
     height: 80px;
     background-color: #1C2B35;
